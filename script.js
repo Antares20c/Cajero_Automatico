@@ -1,5 +1,5 @@
 
-// Datos de las cuentas 
+// Datos de las cuentas
 var cuentas = [
   { nombre: "Miguel", contraseña: "Miguel98", saldo: 800 },
   { nombre: "Javier", contraseña: "Jvr1234", saldo: 750 },
